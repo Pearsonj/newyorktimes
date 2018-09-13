@@ -1,0 +1,14 @@
+*{
+    text-align: center;
+}
+
+
+.main{
+    position: relative;
+    left: 27%;
+    margin-top: 10%;
+}
+
+.button{
+    margin-top: 20px;
+}
